@@ -21,7 +21,7 @@ namespace WindowsFormsApp2
         private void actionButton_Click(object sender, EventArgs e)
             //クリックしたときの動作
         {
-            this.MessageLabel.Text = "クリックされました!!";
+            this.MessageLabel.Text = "クリックされました";
         }
 
         private void actionButton_MouseHover(object sender, EventArgs e)
