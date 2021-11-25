@@ -1,0 +1,11 @@
+C:\Users\藤枝　桃加\OneDrive - Japan Advanced Institute of Science and Technology\その他\ドキュメント\C_app\C_sharp\Review\Review\bin\Debug\Review.exe.config
+C:\Users\藤枝　桃加\OneDrive - Japan Advanced Institute of Science and Technology\その他\ドキュメント\C_app\C_sharp\Review\Review\bin\Debug\Review.exe
+C:\Users\藤枝　桃加\OneDrive - Japan Advanced Institute of Science and Technology\その他\ドキュメント\C_app\C_sharp\Review\Review\bin\Debug\Review.pdb
+C:\Users\藤枝　桃加\OneDrive - Japan Advanced Institute of Science and Technology\その他\ドキュメント\C_app\C_sharp\Review\Review\obj\Debug\Review.csproj.AssemblyReference.cache
+C:\Users\藤枝　桃加\OneDrive - Japan Advanced Institute of Science and Technology\その他\ドキュメント\C_app\C_sharp\Review\Review\obj\Debug\Review.csproj.SuggestedBindingRedirects.cache
+C:\Users\藤枝　桃加\OneDrive - Japan Advanced Institute of Science and Technology\その他\ドキュメント\C_app\C_sharp\Review\Review\obj\Debug\Review.Form1.resources
+C:\Users\藤枝　桃加\OneDrive - Japan Advanced Institute of Science and Technology\その他\ドキュメント\C_app\C_sharp\Review\Review\obj\Debug\Review.Properties.Resources.resources
+C:\Users\藤枝　桃加\OneDrive - Japan Advanced Institute of Science and Technology\その他\ドキュメント\C_app\C_sharp\Review\Review\obj\Debug\Review.csproj.GenerateResource.cache
+C:\Users\藤枝　桃加\OneDrive - Japan Advanced Institute of Science and Technology\その他\ドキュメント\C_app\C_sharp\Review\Review\obj\Debug\Review.csproj.CoreCompileInputs.cache
+C:\Users\藤枝　桃加\OneDrive - Japan Advanced Institute of Science and Technology\その他\ドキュメント\C_app\C_sharp\Review\Review\obj\Debug\Review.exe
+C:\Users\藤枝　桃加\OneDrive - Japan Advanced Institute of Science and Technology\その他\ドキュメント\C_app\C_sharp\Review\Review\obj\Debug\Review.pdb
